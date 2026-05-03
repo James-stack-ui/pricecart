@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\item_recently_viewed.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\item_recently_viewed.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\activity_product_detail.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\dialog_filters.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\dialog_filters.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.pricecart.app-mergeReleaseResources-49:/layout/activity_product_detail.xml",
+        "source": "com.example.pricecart.app-main-51:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\activity_auth.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\item_store_price.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\item_store_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\fragment_saved.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\fragment_saved.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\item_recent_search.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\item_recent_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-mergeReleaseResources-49:\\layout\\item_favourite.xml",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\item_favourite.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.pricecart.PriceCartInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="43.941" timestamp="2026-05-02T13:10:22" hostname="localhost">
+  <properties>
+    <property name="device" value="8gb_Ram_Phone(AVD) - 16" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="mainActivity_showsHomeAndSavedScreensFromBottomNavigation" classname="com.example.pricecart.PriceCartInstrumentedTest" time="31.87" />
+</testsuite>

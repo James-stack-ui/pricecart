@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_item_recently_viewed.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\item_recently_viewed.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\menu_main_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\menu\\main_bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_fragment_saved.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\fragment_saved.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\menu_main_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\menu\\main_toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\drawable_bg_badge_primary.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\drawable\\bg_badge_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\drawable_text_cursor_app.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\drawable\\text_cursor_app.xml"
+    },
+    {
+        "merged": "com.example.pricecart.app-release-50:/layout_activity_product_detail.xml.flat",
+        "source": "com.example.pricecart.app-main-51:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_dialog_filters.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\dialog_filters.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\color_text_input_box_stroke.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\color\\text_input_box_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_item_favourite.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\item_favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_item_recent_search.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\item_recent_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_activity_auth.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\drawable_bg_auth_gradient.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\drawable\\bg_auth_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\color_text_input_hint.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\color\\text_input_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\layout_item_store_price.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\layout\\item_store_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\color_bottom_nav_item_tint.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\color\\bottom_nav_item_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-release-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\barre\\.gradle\\daemon\\8.11.1\\com.example.pricecart.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    }
+]

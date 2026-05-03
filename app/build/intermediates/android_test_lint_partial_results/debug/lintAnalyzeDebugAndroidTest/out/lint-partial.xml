@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.10.0" type="partial_results">
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="id[emailEditText(R),passwordEditText(R),loginButton(R),bottomNavigationView(R),searchButton(R),navigation_saved(R),savedAccountEmailTextView(R),searchEditText(R),resultHeaderTextView(R),searchResultsRecyclerView(R),searchProgressBar(R),detailProductNameTextView(R),detailStoreNameTextView(R),savedRecentSearchesRecyclerView(R)],string[email_required_error(R),password_required_error(R),logout(R),search_result_header(R)];;;;"/>
+    </map>
+
+</incidents>
