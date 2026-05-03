@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF1F6B44</color>
+    <color name="primary_dark">#FF155233</color>
+    <color name="primary_container">#FFDDEEDF</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="surface">#FFF4F7F2</color>
+    <color name="surface_card">#FFFFFFFF</color>
+    <color name="surface_variant">#FFE7EEE6</color>
+    <color name="on_surface">#FF162018</color>
+    <color name="on_surface_muted">#FF5E6A61</color>
+    <color name="outline">#FFB5C1B8</color>
+    <color name="outline_strong">#FF849388</color>
+    <color name="nav_inactive">#FF647067</color>
+    <color name="input_background">#FFFFFFFF</color>
+    <color name="input_text">#FF162018</color>
+    <color name="input_hint_color">#FF6A766D</color>
+    <color name="input_stroke_default">#FFB0BDB3</color>
+    <color name="input_stroke_focused">#FF1F6B44</color>
+    <color name="error">#FFB3261E</color>
+    <color name="on_error">#FFFFFFFF</color>
+    <color name="black">#FF162018</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="surface_gray">#FFF4F7F2</color>
+    <color name="text_muted">#FF5E6A61</color>
+    <color name="purple_200">#FFDDEEDF</color>
+    <color name="purple_500">#FF1F6B44</color>
+    <color name="purple_700">#FF155233</color>
+    <color name="teal_200">#FFE7EEE6</color>
+    <color name="teal_700">#FF3D6F5A</color>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <style name="Widget.PriceCart.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxBackgroundColor">@color/input_background</item>
+        <item name="boxStrokeColor">@color/text_input_box_stroke</item>
+        <item name="hintTextColor">@color/text_input_hint</item>
+        <item name="boxCornerRadiusTopStart">20dp</item>
+        <item name="boxCornerRadiusTopEnd">20dp</item>
+        <item name="boxCornerRadiusBottomStart">20dp</item>
+        <item name="boxCornerRadiusBottomEnd">20dp</item>
+        <item name="errorTextColor">@color/error</item>
+        <item name="helperTextTextColor">@color/on_surface_muted</item>
+    </style>
+
+    <style name="Widget.PriceCart.TextInputEditText" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox.Dense">
+        <item name="android:textColor">@color/input_text</item>
+        <item name="android:textColorHint">@color/input_hint_color</item>
+        <item name="android:textCursorDrawable">@drawable/text_cursor_app</item>
+    </style>
+
+    <style name="Widget.PriceCart.PrimaryButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/on_primary</item>
+        <item name="cornerRadius">18dp</item>
+        <item name="android:minHeight">52dp</item>
+    </style>
+
+    <style name="Widget.PriceCart.SecondaryButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/outline</item>
+        <item name="android:textColor">@color/on_surface</item>
+        <item name="cornerRadius">18dp</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+
+    <style name="Widget.PriceCart.TextButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/primary</item>
+    </style>
+    </resources>

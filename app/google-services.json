@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506056262843",
+    "project_id": "pricecart-fc570",
+    "storage_bucket": "pricecart-fc570.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506056262843:android:5859744b561ab01e61159e",
+        "android_client_info": {
+          "package_name": "com.example.pricecart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSnwPtss730q-G7piNyKGZu1cruGxjQlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
