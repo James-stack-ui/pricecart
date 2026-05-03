@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.pricecart.FavouriteItemHelperTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-05-03T12:31:30" hostname="EAGLETIXX" time="0.031">
-  <properties/>
-  <testcase name="resolveToggleAction_returnsSaveWhenItemIsNotSaved" classname="com.example.pricecart.FavouriteItemHelperTest" time="0.002"/>
-  <testcase name="resolveToggleAction_returnsRemoveWhenItemIsSaved" classname="com.example.pricecart.FavouriteItemHelperTest" time="0.0"/>
-  <testcase name="createFavouriteKey_returnsConsistentNormalizedKey" classname="com.example.pricecart.FavouriteItemHelperTest" time="0.029"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
